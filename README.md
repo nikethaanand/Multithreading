@@ -1,5 +1,5 @@
-# Group_nikethaanand_divyadharshini
-CS5010 repo for Fall2022; Northeastern Seattle.
+# Multithreading
+
 
 
 Sequential Solution
